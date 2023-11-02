@@ -13,3 +13,6 @@
 | 9. | [База данных Startup Investments](https://github.com/TheFutureArtem/Data-Analyst/tree/main/SQL/sql_basics) | Нужно проанализировать данные о фондах и инвестициях и написать запросы к базе. | JOIN, GROUP BY, ORDER BY, WHERE, WITH, LIMIT |
 | 10. | [GoFast - сервис аренды самокатов](https://github.com/TheFutureArtem/Data-Analyst/tree/main/statistics) | Нужно определить поведение пользователей с подпиской и без: кто приносит больший доход, как часто они пользуются услугами сервиса, нужно ли проводить акцию с промокодами на 1 бесплатный месяц подписки и т.д. | pandas, matplotlib.pyplot, scipy, math |
 | 11.| [Анализ результатов А/В-теста](https://github.com/TheFutureArtem/Data-Analyst/tree/main/AB_tests/ab_test) | В приложении планируется нововведение, нужно проанализировать результаты А/В-тестирования | pandas, numpy, matplotlib.pyplot, plotly.express, plotly, statsmodels.stats.proportion |
+
+
+[Сертификат.pdf](https://github.com/TheFutureArtem/Data-Analyst/files/13235968/default.pdf)
